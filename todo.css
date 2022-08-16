@@ -1,0 +1,30 @@
+body{
+    background-color: green;
+    height:80vh;
+}
+.container{
+    height:80vh;
+    width:100vw;
+    margin:auto;
+    margin-top:60px;
+    margin-bottom:60px;
+    padding:auto;
+}
+button{
+    height:40px;
+    width:130px;
+    border-radius:15px;
+    margin:10px;
+    
+}
+.inputElement{
+
+border-radius:10px;
+border-color:aqua;
+width:300px;
+height:40px;
+}
+.todo-items{
+   
+    height:30vh;
+}
